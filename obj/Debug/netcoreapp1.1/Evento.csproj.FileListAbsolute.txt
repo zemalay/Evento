@@ -1,0 +1,10 @@
+/Users/geovanniovinhas/Projects/Evento/bin/Debug/netcoreapp1.1/Evento.deps.json
+/Users/geovanniovinhas/Projects/Evento/bin/Debug/netcoreapp1.1/Evento.runtimeconfig.json
+/Users/geovanniovinhas/Projects/Evento/bin/Debug/netcoreapp1.1/Evento.runtimeconfig.dev.json
+/Users/geovanniovinhas/Projects/Evento/bin/Debug/netcoreapp1.1/Evento.dll
+/Users/geovanniovinhas/Projects/Evento/bin/Debug/netcoreapp1.1/Evento.pdb
+/Users/geovanniovinhas/Projects/Evento/obj/Debug/netcoreapp1.1/Evento.csprojResolveAssemblyReference.cache
+/Users/geovanniovinhas/Projects/Evento/obj/Debug/netcoreapp1.1/Evento.csproj.CoreCompileInputs.cache
+/Users/geovanniovinhas/Projects/Evento/obj/Debug/netcoreapp1.1/Evento.AssemblyInfo.cs
+/Users/geovanniovinhas/Projects/Evento/obj/Debug/netcoreapp1.1/Evento.dll
+/Users/geovanniovinhas/Projects/Evento/obj/Debug/netcoreapp1.1/Evento.pdb

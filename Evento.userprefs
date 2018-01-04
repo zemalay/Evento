@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{C3F22295-848D-498D-B70F-86C60E811294}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Models/Usuario.cs">
+    <Files>
+      <File FileName="Models/Usuario.cs" Line="10" Column="35" />
+      <File FileName="Models/Endereco.cs" Line="10" Column="29" />
+      <File FileName="Models/Evento.cs" Line="12" Column="9" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Evento PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
